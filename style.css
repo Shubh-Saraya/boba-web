@@ -4,6 +4,7 @@ body {
     font-family: "Tagesschrift";
     font-style: italic;
     text-align: center;
+    background-color : "blue";
 }
 
 /* Forcing the image size if it's too big */
